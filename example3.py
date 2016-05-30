@@ -1,11 +1,3 @@
-#! /usr/bin/env python
-# -*- coding: utf-8 -*-
-# vim:fenc=utf-8
-#
-# Copyright © 2016 uralbash <root@uralbash.ru>
-#
-# Distributed under terms of the MIT license.
-
 from wsgiref.simple_server import make_server
 
 from pyramid.config import Configurator
